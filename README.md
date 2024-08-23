@@ -13,6 +13,7 @@
 - Twilio
 - OneSignal
 - Sendgrid
+- React Email (easy & reusable email templating)
 
 ## UI & Frontend
 - TailwindCSS
@@ -67,6 +68,9 @@
 
 ## SEO
 - Lighthouse
+
+## Testing
+- Inbucket - You don't have to use real email provider to test your templates, when you can do this locally!
 
 
 # What's next
