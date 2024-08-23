@@ -69,6 +69,11 @@
 ## SEO
 - Lighthouse
 
+## Secret sharing (for collaboration)
+- Yopass (free & self host option)
+- 1Password (paid)
+- Keep security (paid)
+
 ## Testing
 - Inbucket - You don't have to use real email provider to test your templates, when you can do this locally!
 
