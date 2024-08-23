@@ -26,6 +26,10 @@
 - DaisyUI
 - v0.dev
 
+## Icons
+- [Line Icons](https://lineicons.com/)
+- [Lucide](https://lucide.dev/)
+
 ## Project Organizing
 - Turborepo
 
@@ -64,6 +68,7 @@
 
 ## Analytic
 - Amplitude
+- Google Analytics
 
 ## File Storage & CDN
 - AWS S3
@@ -90,3 +95,7 @@
 
 # What's next
 If your product has passed the MVP stage, congrats! We *might* create a new curated list that list down production ready tools to help you proceed.
+
+### Contributors
+[<img src="https://github.com/Xavier-IV.png" width="30px;"/>](https://github.com/Xavier-IV) [<img src="https://github.com/eldyvoon.png" width="30px;"/>](https://github.com/eldyvoon)
+
