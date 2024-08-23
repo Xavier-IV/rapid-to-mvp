@@ -24,6 +24,7 @@
 - NextUI
 - Shadcn
 - DaisyUI
+- v0.dev
 
 ## Project Organizing
 - Turborepo
@@ -33,6 +34,7 @@
 - Pocketbase
 - Firebase
 - Torso
+- Mongodb atlas
 
 ## Authentication & User Management
 - Clerk
@@ -46,6 +48,7 @@
 - Netlify
 - Render
 - Digital Ocean
+- Fly.io
 
 ## CI/CD (Continuous Integration/Continuous Deployment)
 - GitHub Actions
@@ -81,6 +84,9 @@
 ## Testing
 - Inbucket - You don't have to use real email provider to test your templates, when you can do this locally!
 
+## AI
+- cursor.ai
+- claude
 
 # What's next
 If your product has passed the MVP stage, congrats! We *might* create a new curated list that list down production ready tools to help you proceed.
