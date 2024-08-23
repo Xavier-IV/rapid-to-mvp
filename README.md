@@ -1,4 +1,9 @@
-<p align="center"><strong>Rapid to MVP</strong></p>
+<h1 align="center">
+    <img src="https://github.com/user-attachments/assets/a628eb55-b7d8-4351-84e1-2722ddc0d7b9" width="40%"  />
+  <br/>
+  <br/>
+  <strong>Rapid to MVP</strong>
+</h1>
 
 <p align="center">
   A growing list of tools that can help speed up your MVP development. Wish I found these earlier! <br/>
@@ -30,6 +35,9 @@
 - [Line Icons](https://lineicons.com/)
 - [Lucide](https://lucide.dev/)
 
+## Illustrations
+- [Undraw](https://undraw.co/illustrations)
+
 ## Project Organizing
 - Turborepo
 
@@ -59,6 +67,7 @@
 - GitLab CI/CD
 - CircleCI
 - Travis CI
+- Shorebird
   
 ## Error Tracking & Monitoring
 - Sentry
