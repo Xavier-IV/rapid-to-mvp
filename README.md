@@ -15,6 +15,8 @@
 
 <p align="center">
   Open for contributions!
+  <br/><br/>
+  <em>See also <a href="https://github.com/Xavier-IV/lagged-to-mvp">Lagged to MVP</a></em>
 </p>
 
 <br/>
