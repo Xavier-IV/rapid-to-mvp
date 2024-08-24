@@ -6,8 +6,11 @@
 </h1>
 
 <p align="center">
+  "Choose whatever framework (or not) you like, then start actually building and getting productive with these tools."
+</p>
+
+<p align="center">
   A growing list of tools that can help speed up your MVP development. Wish I found these earlier! <br/>
-  <em>This list aims to give you quick with minimal setup tools, so you tinker less with configuration and start building and focusing on the end product.</em>
 </p>
 
 <p align="center">
