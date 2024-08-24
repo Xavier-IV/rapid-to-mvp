@@ -18,18 +18,18 @@
 
 ## Email & Notification
 - [Resend](https://resend.com/) - Email for developers
-- Pusher
-- Twilio
-- OneSignal
-- Sendgrid
-- React Email (easy & reusable email templating)
+- [Pusher](https://pusher.com/)
+- [Twilio](https://www.twilio.com/)
+- [OneSignal](https://onesignal.com/)
+- [Sendgrid](https://sendgrid.com/)
+- [React Email](https://react.email/) (easy & reusable email templating)
 
 ## UI & Frontend
-- TailwindCSS
-- NextUI
-- Shadcn
-- DaisyUI
-- v0.dev
+- [TailwindCSS](https://tailwindcss.com/)
+- [NextUI](https://nextui.org/)
+- [Shadcn](https://ui.shadcn.com/)
+- [DaisyUI](https://daisyui.com/)
+- [v0.dev](https://v0.dev/)
 
 ## Icons
 - [Line Icons](https://lineicons.com/)
@@ -39,75 +39,74 @@
 - [Undraw](https://undraw.co/illustrations)
 
 ## Project Organizing
-- Turborepo
+- [Turborepo](https://turbo.build/repo)
 
 ## Database
-- Supabase
-- Pocketbase
-- Firebase
-- Torso
-- Mongodb atlas
+- [Supabase](https://supabase.com/)
+- [Pocketbase](https://pocketbase.io/)
+- [Firebase](https://firebase.google.com/)
+- [Torso](https://torso.io/)
+- [MongoDB Atlas](https://www.mongodb.com/atlas/database)
 
 ## Authentication & User Management
-- Clerk
-- Auth0
-- Supabase Auth
+- [Clerk](https://clerk.com/)
+- [Auth0](https://auth0.com/)
+- [Supabase Auth](https://supabase.com/auth)
 
 ## Quick to public
-- Heroku
-- AWS Amplify
-- Vercel
-- Netlify
-- Render
-- Digital Ocean
-- Fly.io
+- [Heroku](https://www.heroku.com/)
+- [AWS Amplify](https://aws.amazon.com/amplify/)
+- [Vercel](https://vercel.com/)
+- [Netlify](https://www.netlify.com/)
+- [Render](https://render.com/)
+- [Digital Ocean](https://www.digitalocean.com/)
+- [Fly.io](https://fly.io/)
 
 ## CI/CD (Continuous Integration/Continuous Deployment)
-- GitHub Actions
-- GitLab CI/CD
-- CircleCI
-- Travis CI
-- Shorebird
+- [GitHub Actions](https://github.com/features/actions)
+- [GitLab CI/CD](https://docs.gitlab.com/ee/ci/)
+- [CircleCI](https://circleci.com/)
+- [Travis CI](https://www.travis-ci.com/)
+- [Shorebird](https://shorebird.dev/)
   
 ## Error Tracking & Monitoring
-- Sentry
-- LogRocket
-- Datadog
-- New Relic
+- [Sentry](https://sentry.io/)
+- [LogRocket](https://logrocket.com/)
+- [Datadog](https://www.datadoghq.com/)
+- [New Relic](https://newrelic.com/)
 
 ## Chart & Diagram
 - [Tremor](https://tremor.so/)
 
 ## Analytic
-- Amplitude
-- Google Analytics
+- [Amplitude](https://amplitude.com/)
+- [Google Analytics](https://analytics.google.com/)
 
 ## File Storage & CDN
-- AWS S3
-- Cloudflare
-- ImageKit.io
-- Uploadcare
-- Supabase storage
-- Uploadthing
+- [AWS S3](https://aws.amazon.com/s3/)
+- [Cloudflare](https://www.cloudflare.com/)
+- [ImageKit.io](https://imagekit.io/)
+- [Uploadcare](https://uploadcare.com/)
+- [Supabase Storage](https://supabase.com/storage)
+- [Uploadthing](https://uploadthing.com/)
 
 ## SEO
-- Lighthouse
+- [Lighthouse](https://developers.google.com/web/tools/lighthouse)
 
 ## Secret sharing (for collaboration)
-- Yopass (free & self host option)
-- 1Password (paid)
-- Keep security (paid)
+- [Yopass](https://yopass.se/) (free & self host option)
+- [1Password](https://1password.com/) (paid)
+- [Keep Security](https://www.keepsecurity.com/) (paid)
 
 ## Testing
-- Inbucket - You don't have to use real email provider to test your templates, when you can do this locally!
+- [Inbucket](https://www.inbucket.org/) - You don't have to use real email provider to test your templates, when you can do this locally!
 
 ## AI
-- cursor.ai
-- claude
+- [Cursor.ai](https://www.cursor.ai/)
+- [Claude](https://www.anthropic.com/)
 
 # What's next
 If your product has passed the MVP stage, congrats! We *might* create a new curated list that list down production ready tools to help you proceed.
 
 ### Contributors
 [<img src="https://github.com/Xavier-IV.png" width="30px;"/>](https://github.com/Xavier-IV) [<img src="https://github.com/eldyvoon.png" width="30px;"/>](https://github.com/eldyvoon)
-
