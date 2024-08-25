@@ -117,3 +117,4 @@ If your product has passed the MVP stage, congrats! We *might* create a new cura
 [<img src="https://github.com/Xavier-IV.png" width="30px;"/>](https://github.com/Xavier-IV) 
 [<img src="https://github.com/eldyvoon.png" width="30px;"/>](https://github.com/eldyvoon)
 [<img src="https://github.com/farhan-helmy.png" width="30px;"/>](https://github.com/farhan-helmy)
+[<img src="https://github.com/khrnchn.png" width="30px;"/>](https://github.com/khrnchn)
