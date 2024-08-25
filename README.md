@@ -39,6 +39,7 @@
 ## Icons
 - [Line Icons](https://lineicons.com/)
 - [Lucide](https://lucide.dev/)
+- [Icones](https://icones.js.org/)
 
 ## Illustrations
 - [Undraw](https://undraw.co/illustrations)
@@ -109,6 +110,9 @@
 ## AI
 - [Cursor.ai](https://www.cursor.ai/)
 - [Claude](https://www.anthropic.com/)
+
+## OpenGraph/Twitter Image
+- [ImgSrc.io](https://imgsrc.io/)
 
 # What's next
 If your product has passed the MVP stage, congrats! We *might* create a new curated list that list down production ready tools to help you proceed.
