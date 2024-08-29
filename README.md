@@ -84,6 +84,9 @@
 ## Chart & Diagram
 - [Tremor](https://tremor.so/)
 
+## Generator
+- [NanoID](https://github.com/ai/nanoid) - Generate friendly unique ID, e.g. for short URL
+
 ## Analytic
 - [Amplitude](https://amplitude.com/)
 - [Google Analytics](https://analytics.google.com/)
