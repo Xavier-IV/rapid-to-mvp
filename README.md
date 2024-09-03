@@ -98,6 +98,9 @@
 - [Amplitude](https://amplitude.com/)
 - [Google Analytics](https://analytics.google.com/)
 
+## Experimentation/Feature Flags
+- [HappyKit](https://happykit.dev/)
+
 ## File Storage & CDN
 - [AWS S3](https://aws.amazon.com/s3/)
 - [Cloudflare](https://www.cloudflare.com/)
