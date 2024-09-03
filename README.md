@@ -28,6 +28,7 @@
 - [OneSignal](https://onesignal.com/)
 - [Sendgrid](https://sendgrid.com/)
 - [React Email](https://react.email/) (easy & reusable email templating)
+- [Novu](https://novu.co/) - Notification management infrastructure
 
 ## UI & Frontend
 - [TailwindCSS](https://tailwindcss.com/)
