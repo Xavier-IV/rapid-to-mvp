@@ -32,7 +32,7 @@
 ## UI & Frontend
 - [TailwindCSS](https://tailwindcss.com/)
 - [NextUI](https://nextui.org/)
-- [Shadcn](https://ui.shadcn.com/)
+- [shadcn/ui](https://ui.shadcn.com/)
 - [DaisyUI](https://daisyui.com/)
 - [v0.dev](https://v0.dev/)
 
@@ -46,6 +46,7 @@
 
 ## Project Organizing
 - [Turborepo](https://turbo.build/repo)
+- [Nx](nx.dev)
 
 ## Database
 - [Supabase](https://supabase.com/)
@@ -53,6 +54,10 @@
 - [Firebase](https://firebase.google.com/)
 - [Torso](https://torso.io/)
 - [MongoDB Atlas](https://www.mongodb.com/atlas/database)
+
+## Database ORM
+- [Drizzle](https://orm.drizzle.team/)
+- [Prisma](https://www.prisma.io/)
 
 ## Authentication & User Management
 - [Clerk](https://clerk.com/)
@@ -67,6 +72,7 @@
 - [Render](https://render.com/)
 - [Digital Ocean](https://www.digitalocean.com/)
 - [Fly.io](https://fly.io/)
+- [Coolify](https://coolify.io/)
 
 ## CI/CD (Continuous Integration/Continuous Deployment)
 - [GitHub Actions](https://github.com/features/actions)
