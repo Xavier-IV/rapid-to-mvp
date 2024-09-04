@@ -130,6 +130,9 @@
 ## Productivity
 - [Linear](https://linear.app/)
 
+## Marketing & Promo
+- [Screen Studio](https://www.screen.studio/) - Catchy startup like video recording
+
 # What's next
 If your product has passed the MVP stage, congrats! We *might* create a new curated list that list down production ready tools to help you proceed.
 
