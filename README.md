@@ -21,6 +21,31 @@
 
 <br/>
 
+## Table of Contents
+- [Email & Notification](#email--notification)
+- [UI & Frontend](#ui--frontend)
+- [Icons](#icons)
+- [Illustrations](#illustrations)
+- [Project Organizing](#project-organizing)
+- [Database](#database)
+- [Database ORM](#database-orm)
+- [Authentication & User Management](#authentication--user-management)
+- [Quick to Public](#quick-to-public)
+- [CI/CD (Continuous Integration/Continuous Deployment)](#cicd-continuous-integrationcontinuous-deployment)
+- [Error Tracking & Monitoring](#error-tracking--monitoring)
+- [Chart & Diagram](#chart--diagram)
+- [Generator](#generator)
+- [Analytic](#analytic)
+- [Experimentation/Feature Flags](#experimentationfeature-flags)
+- [File Storage & CDN](#file-storage--cdn)
+- [SEO](#seo)
+- [Secret Sharing (for Collaboration)](#secret-sharing-for-collaboration)
+- [Testing](#testing)
+- [AI](#ai)
+- [OpenGraph/Twitter Image](#opengraphtwitter-image)
+- [Productivity](#productivity)
+- [Marketing & Promo](#marketing--promo)
+
 ## Email & Notification
 - [Resend](https://resend.com/) - Email for developers
 - [Pusher](https://pusher.com/)
