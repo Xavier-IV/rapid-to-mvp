@@ -89,6 +89,7 @@
 - [Clerk](https://clerk.com/)
 - [Auth0](https://auth0.com/)
 - [Supabase Auth](https://supabase.com/auth)
+- [Lucia](https://lucia-auth.com/)
 
 ## Quick to public
 - [Heroku](https://www.heroku.com/)
