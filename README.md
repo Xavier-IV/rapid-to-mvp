@@ -61,6 +61,7 @@
 - [shadcn/ui](https://ui.shadcn.com/)
 - [DaisyUI](https://daisyui.com/)
 - [v0.dev](https://v0.dev/)
+- [WindAI](https://windai.vercel.app/)
 
 ## Icons
 - [Line Icons](https://lineicons.com/)
