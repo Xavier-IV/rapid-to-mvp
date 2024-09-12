@@ -73,7 +73,7 @@
 
 ## Project Organizing
 - [Turborepo](https://turbo.build/repo)
-- [Nx](nx.dev)
+- [Nx](https://nx.dev/)
 
 ## Database
 - [Supabase](https://supabase.com/)
