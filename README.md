@@ -141,7 +141,7 @@
 
 ## Secret sharing (for collaboration)
 - [Yopass](https://yopass.se/) (free & self host option)
-- [Infisical]([https://](https://infisical.com/) (free & self host option)
+- [Infisical](https://infisical.com/) (free & self host option)
 - [1Password](https://1password.com/) (paid)
 - [Keep Security](https://www.keepsecurity.com/) (paid)
 
