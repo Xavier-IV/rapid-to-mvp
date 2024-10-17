@@ -1,3 +1,4 @@
+
 <h1 align="center">
     <img src="https://github.com/user-attachments/assets/a628eb55-b7d8-4351-84e1-2722ddc0d7b9" width="40%"  />
   <br/>
@@ -57,8 +58,6 @@
 
 ## UI & Frontend
 - [TailwindCSS](https://tailwindcss.com/)
-- [NextUI](https://nextui.org/)
-- [shadcn/ui](https://ui.shadcn.com/)
 - [DaisyUI](https://daisyui.com/)
 - [v0.dev](https://v0.dev/)
 - [WindAI](https://windai.vercel.app/)
@@ -108,7 +107,7 @@
 - [CircleCI](https://circleci.com/)
 - [Travis CI](https://www.travis-ci.com/)
 - [Shorebird](https://shorebird.dev/)
-  
+
 ## Error Tracking & Monitoring
 - [Sentry](https://sentry.io/)
 - [LogRocket](https://logrocket.com/)
@@ -146,7 +145,7 @@
 - [Keep Security](https://www.keepsecurity.com/) (paid)
 
 ## Testing
-- [Inbucket](https://www.inbucket.org/) - You don't have to use real email provider to test your templates, when you can do this locally!
+- [Inbucket](https://www.inbucket.org/) - You don't have to use a real email provider to test your templates, when you can do this locally!
 
 ## AI
 - [Cursor.ai](https://www.cursor.ai/)
@@ -159,12 +158,12 @@
 - [Linear](https://linear.app/)
 
 ## Marketing & Promo
-- [Screen Studio](https://www.screen.studio/) - Catchy startup like video recording
+- [Screen Studio](https://www.screen.studio/) - Catchy startup-like video recording
 - [Rotato](https://rotato.app/) - Mockup generator with 3D experience
 - [OBS](https://obsproject.com/) - Free screen recording software
 
 # What's next
-If your product has passed the MVP stage, congrats! We *might* create a new curated list that list down production ready tools to help you proceed.
+If your product has passed the MVP stage, congrats! We *might* create a new curated list that lists down production-ready tools to help you proceed.
 
 ### Contributors
 [<img src="https://github.com/Xavier-IV.png" width="30px;"/>](https://github.com/Xavier-IV) 
@@ -172,3 +171,4 @@ If your product has passed the MVP stage, congrats! We *might* create a new cura
 [<img src="https://github.com/farhan-helmy.png" width="30px;"/>](https://github.com/farhan-helmy)
 [<img src="https://github.com/khrnchn.png" width="30px;"/>](https://github.com/khrnchn)
 [<img src="https://github.com/Kyziq.png" width="30px;"/>](https://github.com/Kyziq)
+
