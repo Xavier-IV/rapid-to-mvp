@@ -162,6 +162,8 @@
 - [Screen Studio](https://www.screen.studio/) - Catchy startup like video recording
 - [Rotato](https://rotato.app/) - Mockup generator with 3D experience
 - [OBS](https://obsproject.com/) - Free screen recording software
+- [Shots.so](https://shots.so/)
+- [Screely](https://screely.com/)
 
 # What's next
 If your product has passed the MVP stage, congrats! We *might* create a new curated list that list down production ready tools to help you proceed.
